@@ -3,3 +3,4 @@ run/logs/
 run/models/
 run/memory/
 run_archive
+.ipynb_checkpoints
